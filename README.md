@@ -2,7 +2,7 @@ Table of Contents
 =================
 * [Intro](#Intro)
 * [Contents](#Contents)
-  * [Machine Learning for Predicting House Prices](#Machine Learning for Predicting House Prices)
+  * [Machine Learning for Predicting House Prices](##Machine Learning for Predicting House Prices)
 
 
 # Intro
