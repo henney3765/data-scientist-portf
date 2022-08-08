@@ -2,7 +2,7 @@ Table of Contents
 =================
 * [Intro](#Intro)
 * [Contents](#Contents)
-  * [A Comparative Study of Machine Learning and Spatial Interpolation Methods for Predicting House Prices](#A Comparative Study of Machine Learning and Spatial Interpolation Methods for Predicting House Prices)
+  * [A Comparative Study of Machine Learning and Spatial Interpolation Methods for Predicting House Prices](A Comparative Study of Machine Learning and Spatial Interpolation Methods for Predicting House Prices)
 
 
 # Intro
